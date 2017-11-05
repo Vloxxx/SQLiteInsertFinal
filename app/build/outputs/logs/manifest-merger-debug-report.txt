@@ -1,0 +1,132 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\School\Semester 5\SQLiteInsert\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from D:\School\Semester 5\SQLiteInsert\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from D:\School\Semester 5\SQLiteInsert\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from D:\School\Semester 5\SQLiteInsert\app\src\main\AndroidManifest.xml:2:1-32:12
+MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Users\larso\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.2.0.aar\2884da68651926fea2f4b417efad3ea0\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] C:\Users\larso\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.2.0.aar\81d7f6669e39132219dc29197fb3c86e\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Users\larso\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.2.0.aar\8307154a2269b2a68c60d923b15ef558\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\larso\.gradle\caches\transforms-1\files-1.1\support-v4-25.2.0.aar\8181f9181e8256121c67d99b09be7638\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\larso\.gradle\caches\transforms-1\files-1.1\support-fragment-25.2.0.aar\06e4ac26bffe056799a735d7322eae58\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\larso\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.2.0.aar\becd6599ebe9a2bb0cfb6f7155cf8b44\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\larso\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.2.0.aar\2285a3bf354cd67be05870be0296841f\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\larso\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.2.0.aar\10ca2e9fd38d35e0f8b601e08cdcf7cf\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\larso\.gradle\caches\transforms-1\files-1.1\support-compat-25.2.0.aar\0e47c342aa60c788f48c884a28703013\AndroidManifest.xml:17:1-27:12
+INJECTED from D:\School\Semester 5\SQLiteInsert\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from D:\School\Semester 5\SQLiteInsert\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from D:\School\Semester 5\SQLiteInsert\app\src\main\AndroidManifest.xml:2:1-32:12
+	package
+		ADDED from D:\School\Semester 5\SQLiteInsert\app\src\main\AndroidManifest.xml:3:5-39
+		INJECTED from D:\School\Semester 5\SQLiteInsert\app\src\main\AndroidManifest.xml
+		INJECTED from D:\School\Semester 5\SQLiteInsert\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\School\Semester 5\SQLiteInsert\app\src\main\AndroidManifest.xml
+		ADDED from D:\School\Semester 5\SQLiteInsert\app\src\main\AndroidManifest.xml:2:1-32:12
+		INJECTED from D:\School\Semester 5\SQLiteInsert\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\School\Semester 5\SQLiteInsert\app\src\main\AndroidManifest.xml
+		ADDED from D:\School\Semester 5\SQLiteInsert\app\src\main\AndroidManifest.xml:2:1-32:12
+		INJECTED from D:\School\Semester 5\SQLiteInsert\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\School\Semester 5\SQLiteInsert\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from D:\School\Semester 5\SQLiteInsert\app\src\main\AndroidManifest.xml:4:5-30:19
+MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Users\larso\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.2.0.aar\2884da68651926fea2f4b417efad3ea0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Users\larso\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.2.0.aar\2884da68651926fea2f4b417efad3ea0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] C:\Users\larso\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.2.0.aar\81d7f6669e39132219dc29197fb3c86e\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] C:\Users\larso\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.2.0.aar\81d7f6669e39132219dc29197fb3c86e\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Users\larso\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.2.0.aar\8307154a2269b2a68c60d923b15ef558\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Users\larso\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.2.0.aar\8307154a2269b2a68c60d923b15ef558\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\larso\.gradle\caches\transforms-1\files-1.1\support-v4-25.2.0.aar\8181f9181e8256121c67d99b09be7638\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\larso\.gradle\caches\transforms-1\files-1.1\support-v4-25.2.0.aar\8181f9181e8256121c67d99b09be7638\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\larso\.gradle\caches\transforms-1\files-1.1\support-fragment-25.2.0.aar\06e4ac26bffe056799a735d7322eae58\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\larso\.gradle\caches\transforms-1\files-1.1\support-fragment-25.2.0.aar\06e4ac26bffe056799a735d7322eae58\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\larso\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.2.0.aar\becd6599ebe9a2bb0cfb6f7155cf8b44\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\larso\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.2.0.aar\becd6599ebe9a2bb0cfb6f7155cf8b44\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\larso\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.2.0.aar\2285a3bf354cd67be05870be0296841f\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\larso\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.2.0.aar\2285a3bf354cd67be05870be0296841f\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\larso\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.2.0.aar\10ca2e9fd38d35e0f8b601e08cdcf7cf\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\larso\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.2.0.aar\10ca2e9fd38d35e0f8b601e08cdcf7cf\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\larso\.gradle\caches\transforms-1\files-1.1\support-compat-25.2.0.aar\0e47c342aa60c788f48c884a28703013\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\larso\.gradle\caches\transforms-1\files-1.1\support-compat-25.2.0.aar\0e47c342aa60c788f48c884a28703013\AndroidManifest.xml:25:5-20
+	android:supportsRtl
+		ADDED from D:\School\Semester 5\SQLiteInsert\app\src\main\AndroidManifest.xml:8:9-35
+	android:label
+		ADDED from D:\School\Semester 5\SQLiteInsert\app\src\main\AndroidManifest.xml:7:9-41
+	android:icon
+		ADDED from D:\School\Semester 5\SQLiteInsert\app\src\main\AndroidManifest.xml:6:9-43
+	android:allowBackup
+		ADDED from D:\School\Semester 5\SQLiteInsert\app\src\main\AndroidManifest.xml:5:9-35
+	android:theme
+		ADDED from D:\School\Semester 5\SQLiteInsert\app\src\main\AndroidManifest.xml:9:9-40
+activity#com.example.sqliteinsert.MainActivity
+ADDED from D:\School\Semester 5\SQLiteInsert\app\src\main\AndroidManifest.xml:10:9-17:20
+	android:label
+		ADDED from D:\School\Semester 5\SQLiteInsert\app\src\main\AndroidManifest.xml:12:13-45
+	android:name
+		ADDED from D:\School\Semester 5\SQLiteInsert\app\src\main\AndroidManifest.xml:11:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\School\Semester 5\SQLiteInsert\app\src\main\AndroidManifest.xml:13:13-16:29
+action#android.intent.action.MAIN
+ADDED from D:\School\Semester 5\SQLiteInsert\app\src\main\AndroidManifest.xml:14:17-68
+	android:name
+		ADDED from D:\School\Semester 5\SQLiteInsert\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\School\Semester 5\SQLiteInsert\app\src\main\AndroidManifest.xml:15:17-76
+	android:name
+		ADDED from D:\School\Semester 5\SQLiteInsert\app\src\main\AndroidManifest.xml:15:27-74
+activity#com.example.sqliteinsert.ViewActivity
+ADDED from D:\School\Semester 5\SQLiteInsert\app\src\main\AndroidManifest.xml:18:9-25:20
+	android:parentActivityName
+		ADDED from D:\School\Semester 5\SQLiteInsert\app\src\main\AndroidManifest.xml:20:13-55
+	android:name
+		ADDED from D:\School\Semester 5\SQLiteInsert\app\src\main\AndroidManifest.xml:19:13-41
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from D:\School\Semester 5\SQLiteInsert\app\src\main\AndroidManifest.xml:22:13-24:49
+	android:value
+		ADDED from D:\School\Semester 5\SQLiteInsert\app\src\main\AndroidManifest.xml:24:17-46
+	android:name
+		ADDED from D:\School\Semester 5\SQLiteInsert\app\src\main\AndroidManifest.xml:23:17-63
+provider#com.example.sqliteinsert.Data.UserProvider
+ADDED from D:\School\Semester 5\SQLiteInsert\app\src\main\AndroidManifest.xml:26:9-29:40
+	android:authorities
+		ADDED from D:\School\Semester 5\SQLiteInsert\app\src\main\AndroidManifest.xml:28:13-59
+	android:exported
+		ADDED from D:\School\Semester 5\SQLiteInsert\app\src\main\AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from D:\School\Semester 5\SQLiteInsert\app\src\main\AndroidManifest.xml:27:13-46
+uses-sdk
+INJECTED from D:\School\Semester 5\SQLiteInsert\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\School\Semester 5\SQLiteInsert\app\src\main\AndroidManifest.xml
+INJECTED from D:\School\Semester 5\SQLiteInsert\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Users\larso\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.2.0.aar\2884da68651926fea2f4b417efad3ea0\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Users\larso\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.2.0.aar\2884da68651926fea2f4b417efad3ea0\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] C:\Users\larso\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.2.0.aar\81d7f6669e39132219dc29197fb3c86e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] C:\Users\larso\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.2.0.aar\81d7f6669e39132219dc29197fb3c86e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Users\larso\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.2.0.aar\8307154a2269b2a68c60d923b15ef558\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Users\larso\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.2.0.aar\8307154a2269b2a68c60d923b15ef558\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\larso\.gradle\caches\transforms-1\files-1.1\support-v4-25.2.0.aar\8181f9181e8256121c67d99b09be7638\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\larso\.gradle\caches\transforms-1\files-1.1\support-v4-25.2.0.aar\8181f9181e8256121c67d99b09be7638\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\larso\.gradle\caches\transforms-1\files-1.1\support-fragment-25.2.0.aar\06e4ac26bffe056799a735d7322eae58\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\larso\.gradle\caches\transforms-1\files-1.1\support-fragment-25.2.0.aar\06e4ac26bffe056799a735d7322eae58\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\larso\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.2.0.aar\becd6599ebe9a2bb0cfb6f7155cf8b44\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\larso\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.2.0.aar\becd6599ebe9a2bb0cfb6f7155cf8b44\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\larso\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.2.0.aar\2285a3bf354cd67be05870be0296841f\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\larso\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.2.0.aar\2285a3bf354cd67be05870be0296841f\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\larso\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.2.0.aar\10ca2e9fd38d35e0f8b601e08cdcf7cf\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\larso\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.2.0.aar\10ca2e9fd38d35e0f8b601e08cdcf7cf\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\larso\.gradle\caches\transforms-1\files-1.1\support-compat-25.2.0.aar\0e47c342aa60c788f48c884a28703013\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\larso\.gradle\caches\transforms-1\files-1.1\support-compat-25.2.0.aar\0e47c342aa60c788f48c884a28703013\AndroidManifest.xml:21:5-23:58
+INJECTED from D:\School\Semester 5\SQLiteInsert\app\src\main\AndroidManifest.xml
+INJECTED from D:\School\Semester 5\SQLiteInsert\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.2.0] C:\Users\larso\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.2.0.aar\2884da68651926fea2f4b417efad3ea0\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from D:\School\Semester 5\SQLiteInsert\app\src\main\AndroidManifest.xml
+		ADDED from D:\School\Semester 5\SQLiteInsert\app\src\main\AndroidManifest.xml
+		INJECTED from D:\School\Semester 5\SQLiteInsert\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\School\Semester 5\SQLiteInsert\app\src\main\AndroidManifest.xml
+		ADDED from D:\School\Semester 5\SQLiteInsert\app\src\main\AndroidManifest.xml
+		INJECTED from D:\School\Semester 5\SQLiteInsert\app\src\main\AndroidManifest.xml
